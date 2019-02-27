@@ -1,7 +1,7 @@
 #include "scripdlg.h"
 #include<QHBoxLayout>
 #include<QGridLayout>
-
+aaaa
 scripDlg::scripDlg()
 {
     islogin = false;
