@@ -2,6 +2,7 @@
 #include<QHBoxLayout>
 #include<QGridLayout>
 ddd
+ccc
 scripDlg::scripDlg()
 {
     islogin = false;
